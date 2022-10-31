@@ -29,13 +29,14 @@ em strong {
 
 .itens {
 	font-style: italic;
-	font-size: 20%;
+	font-size: 25px;
 	;
 }
 
 .beneficios {
 	background: #FFFFFF;
 	padding: 20px;
+	font-size: 25px;
 }
 
 h2 {
@@ -49,5 +50,5 @@ ul {
 }
 
 .imagembeneficios {
-	width: 50px;
+	width: 40%;
 }
